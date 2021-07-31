@@ -1,4 +1,4 @@
-# Computer-Graphics-Project-
+# Computer-Graphics-Project
 An OpenGL menu driven program implementing simulation of dispersion of light and wave super imposition.
 
 Our project Dispersion of light and  Wave Superposition using OpenGL aims to provide a visual representation 
